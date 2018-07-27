@@ -5,4 +5,4 @@ Remember to get help from 教授 when it comes to difficulties.
 Written by Even.
 gitgitggitgitgigtggitgitgitgitgitgitgitgitgitgitgigtgigtgitgitgigtgitgitgigtggggggitgitgitgitgtiggtigtgigtgigtgigtgigtgigtggitgigtgigtgitgtigtitititiggigigigigigigigigigigigigiggigigigigigigigigigigiggggggggggggggggggggggggggg
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes..
