@@ -1,2 +1,3 @@
-make a test 
-for remote test
+make a test ..
+for remote test..
+for password test..
