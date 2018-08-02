@@ -9,3 +9,4 @@ Git tracks changes..
 Creating a new branch is easy.
 Creating a new branch is quick and simple.
 merge without fast merge..
+Check for debug in a branch.
